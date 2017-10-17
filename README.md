@@ -1,2 +1,4 @@
 # hello-world
-the first GitHub  project
+the first GitHub project
+
+How wonderful day!
